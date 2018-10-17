@@ -42,4 +42,5 @@ Following the reference on wiki, you may confort some problems. Here are some su
 3. Maybe you can delete some unfit design. (e.g. the fragile connection)
 ## Contact
 About hardware : jf-li16@mails.tsinghua.edu.cn
+
 About iGEM team Tsinghua-A 2018 : igem2018_thua@163.com 
