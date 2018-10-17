@@ -35,3 +35,11 @@ We refer to the design of Team Aachen, 2014, but our Devices are more automated 
 * vibration motor
   * https://detail.tmall.com/item.htm?id=522098372457&_u=i2o6d15v0945
 
+## Trying to make it
+Following the reference on wiki, you may confort some problems. Here are some suggestions.
+1. Use black material to print 3D parts. At least, paint the inside surface black. Avoiding environment light is imprtant.
+2. Take care when you welding or installing parts. They are fragile.
+3. Maybe you can delete some unfit design. (e.g. the fragile connection)
+## Contact
+About hardware : jf-li16@mails.tsinghua.edu.cn
+About iGEM team Tsinghua-A 2018 : igem2018_thua@163.com 
