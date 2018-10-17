@@ -1,5 +1,7 @@
 # iGEM
 iGEM 2018, Team Tsinghua-A, Hardware
+
+http://2018.igem.org/Team:Tsinghua-A/Hardware
 ## Introduce
 In order to achieve portable and simple field allergy detection, we designed and manufactured the hardware testing equipment for this project - a small, inexpensive ($20) system, including a device can measure OD600 and fluorescence intensity, and a small automatic vibration device avoiding the sinking of cells.
 
